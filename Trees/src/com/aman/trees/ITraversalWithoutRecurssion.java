@@ -1,5 +1,5 @@
 
-package com.aman.trees.traversal;
+package com.aman.trees;
 
 import java.util.Queue;
 import java.util.Stack;
